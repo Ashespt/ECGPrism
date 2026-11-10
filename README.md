@@ -1,4 +1,7 @@
 # ECGPrism
+## Dataset
+We have publicly released the Zhongshan evaluation dataset, which can be accessed [here](https://huggingface.co/datasets/ashept/Zhongshan-ECG).
+
 ## Zhongshan 13-class inference
 
 Output classes: `NORM, STTC, O, AA, IVB, MI, VA, VH, CD, AE, JA, QTIA, VP`. 
